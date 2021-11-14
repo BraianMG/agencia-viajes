@@ -1,4 +1,4 @@
-# Agencia de Viajes [(Ver)](https://braianmg-agencia-viajes.herokuapp.com/testimoniales)
+# Agencia de Viajes ([Ver](https://braianmg-agencia-viajes.herokuapp.com/))
 
 ## Tecnologías
 - Node
