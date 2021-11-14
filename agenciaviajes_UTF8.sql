@@ -37,7 +37,7 @@ CREATE TABLE `testimoniales` (
 
 LOCK TABLES `testimoniales` WRITE;
 /*!40000 ALTER TABLE `testimoniales` DISABLE KEYS */;
-INSERT INTO `testimoniales` VALUES ('Braian','braian.gonzales77@gmail.com','Excelente!!',1),('Michael','demo@demo.com','Tremendo!!',2),('Juan','juan@juan.com','alshdbaoyisdvalshdbaoyisdvalshdbaoyisdvalshdbaoyisdvalshdbaoyisdv alshdbaoyisdvalshdbaoyisdv\r\nalshdbaoyisdvalshdbaoyisdv\r\nalshdbaoyisdv',3),('Anonimo','algo@algo.com','GENIAAALLLLLLLLLL!!!!!',4);
+INSERT INTO `testimoniales` VALUES ('Braian','braian.gonzales77@gmail.com','Excelente!!',1),('Michael','demo@demo.com','Espectacular!!',2),('Juan','juan@juan.com','Muy recomendado',3),('Anonimo','algo@algo.com','Muuy bueno!!!!!',4);
 /*!40000 ALTER TABLE `testimoniales` ENABLE KEYS */;
 UNLOCK TABLES;
 
