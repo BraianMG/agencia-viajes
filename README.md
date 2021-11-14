@@ -1,10 +1,11 @@
 # Agencia de Viajes
 
-## Tecnologías
+## Desarrollado con
 - Node
 - Express
 - Sequelize
 - MySQL
+- Bootstrap
 
 ## Funcionalidades
 - Muestra de información dinámica
