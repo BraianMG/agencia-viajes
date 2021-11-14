@@ -1,4 +1,4 @@
-# Agencia de Viajes ([Ver](https://braianmg-agencia-viajes.herokuapp.com/))
+# Agencia de Viajes
 
 ## Tecnologías
 - Node
@@ -9,3 +9,6 @@
 ## Funcionalidades
 - Muestra de información dinámica
 - Carga de testimoniales para compartir experiencias con los demás usuarios
+
+## Despliegue
+- HEROKU [https://braianmg-agencia-viajes.herokuapp.com/](https://braianmg-agencia-viajes.herokuapp.com/)
